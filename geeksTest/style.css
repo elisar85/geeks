@@ -1,0 +1,18 @@
+.box{
+    background-color: aquamarine;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.boxmini{
+    display: flex;
+    justify-content: center;
+}
+
+.boxx input{
+    width: 400px;
+    height: 100px;
+    
+}
